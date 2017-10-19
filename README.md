@@ -20,7 +20,7 @@ images are:
 
 This sample project contains a very simple C compile extension module that links
 to an external library (ATLAS, a linear algebra library). The build is
-configured via the `setup.py` file.
+configured via the `setup.py` file..
 
 Continuous integration setup with Travis + Docker
 -------------------------------------------------
